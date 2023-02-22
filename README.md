@@ -6,6 +6,7 @@
 
 -   This repository is for the budding juniors of my University.
 -   It contians tips and tricks to get a good score in Debugger.
+-   It also contains programs that I practiced before taking part in the contest.
 
 ## Concepts to grasp before participating
 
