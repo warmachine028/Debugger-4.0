@@ -7,6 +7,7 @@
 -   This repository is for helping the budding juniors of my University to take interest in Debugger event organised by Ureckon every year.
 -   It contians tips and tricks to get a good score in Debugger.
 -   It also contains programs that I practiced before taking part in the contest.
+-  All programs arranged Language wise for easy navigation.
 
 ## Concepts to grasp before participating
 
@@ -45,3 +46,5 @@ These are the following concepts which be tested in the Contest
 -   Approach problems randomly, and not in sequnce. If you are unable to solve first few problems, start solving from the end.
 -   Take a look at the problems in the given repository. They are not from the contest, but they will clear your concepts.
 -   Take the help of Browser console for evaluating Bitwise Expressions.
+
+**By, Pritam K, 2023**
