@@ -4,7 +4,7 @@
 
 ## Introduction
 
--   This repository is for the budding juniors of my University.
+-   This repository is for helping the budding juniors of my University to take interest in Debugger event organised by Ureckon every year.
 -   It contians tips and tricks to get a good score in Debugger.
 -   It also contains programs that I practiced before taking part in the contest.
 
