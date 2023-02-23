@@ -48,4 +48,7 @@ These are the following concepts which be tested in the Contest
 -   Take a look at the problems in the given repository. They are not from the contest, but they will clear your concepts.
 -   Take the help of Browser console for evaluating Bitwise Expressions.
 
+## Happy debugging. 💐
+Star my other Repositories [here](https://github.com/warmachine028)
+
 **By, Pritam K, 2023**
