@@ -39,7 +39,8 @@ These are the following concepts which be tested in the Contest
 ## Tips to get a good rank:
 
 -   Problems are MCQ Based, but contains negative marking, so guessing solutions going to critically damage overall accuracy.
--   Codes are comparatvely easy in prelims but time is very limited. But the problems in finals will definitely burn your CPU.
+-   Problems are comparatvely easy in prelims but time is very limited. 
+-   The problems in finals will definitely burn your CPU, so be mentally prepared.
 -   Try to solve less problems, but only choose the option if you are definite about the solution.
 -   As there is negative marking too, so its better to leave some difficult problems unsolved and focus on the solvable ones.
 -   Your main target must not be solving more problems, but to solve most of them correctly, this will increase your accuracy.
