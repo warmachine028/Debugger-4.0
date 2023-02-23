@@ -1,6 +1,6 @@
 ![poster](https://d8it4huxumps7.cloudfront.net/uploads/images/opportunity/banner/63da90306a1cb_debugger-40-code-debugging-contest.png?d=1920x557)
 
-# [DEBUGGER](https://ureckon.uem.edu.in/event/coding/debugger) Contest by [Ureckon](https://ureckon.uem.edu.in/)
+# [DEBUGGER 4.0](https://ureckon.uem.edu.in/event/coding/debugger) Contest by [Ureckon⁵](https://ureckon.uem.edu.in/)
 
 ## Introduction
 
