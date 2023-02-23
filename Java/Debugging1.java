@@ -11,7 +11,7 @@ class Object extends Child{
 	public static void main(String... _){
         Parent parent = Object();
 		System.out.println(Math.round(-2.3));
-                System.out.println(parent.x +""+ parent.y);
+            System.out.println(parent.x +""+ parent.y);
 	}
 }
 
